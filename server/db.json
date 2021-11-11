@@ -1,0 +1,14 @@
+{
+    "posts" : [
+        {
+            "id": 0,
+            "content": "Some content here",
+            "author": "Pesho"
+        },
+        {
+            "id": 1,
+            "content": "Some extra content here",
+            "author": "Gosho"
+        }
+    ]
+}
