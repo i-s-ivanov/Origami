@@ -1,0 +1,59 @@
+.main {
+    display: inline-block;
+    width: 83%;
+    height: auto;
+    margin-bottom: 5%;
+}
+
+.title {
+    text-align: center;
+    color: #234465;
+    text-decoration: underline;
+    margin-bottom: 2%;
+}
+
+.posts {
+    width: 100%;
+    height: 45vh;
+}
+
+.post {
+    width: 100%;
+    height: auto;
+    border: 1px solid #234465;
+    margin-bottom: 3%;
+    border-radius: 4px;
+}
+
+
+.post {
+    height: auto;
+    margin-bottom: 0.5%;
+}
+
+.postSpan {
+    text-decoration: underline;
+    text-align: right;
+    /* border:1px solid green; */
+    padding-right: 1%;
+    position: relative;
+    left: 1230px
+;
+}
+
+.postImg {
+    width: 32px;
+    height: 32px;
+}
+
+.description {
+    word-wrap: break-word;
+    padding: 0.5%;
+    font-style: italic;
+    /* border:1px solid blue; */
+    margin-bottom: 0.5%;
+    width: 95%;
+    display: inline-block;
+    vertical-align: top;
+    ;
+}

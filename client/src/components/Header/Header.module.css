@@ -9,3 +9,6 @@
     border-top: 2px solid #ffa000;
 }
 
+.ul {
+    display: flex;
+}
